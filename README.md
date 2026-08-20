@@ -27,7 +27,7 @@ Backend & Auth:
 - Firebase Firestore Database
 - Firebase Hosting ready
 
-**AI:
+AI:
 - Google Gemini API
 
 Deploy:
