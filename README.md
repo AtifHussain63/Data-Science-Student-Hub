@@ -2,6 +2,8 @@
 
 A modern web app to learn Data Science, AI & Programming with an AI Tutor powered by Google Gemini.
 
+GitHub Repo Link:https://github.com/atifhussain63/data-science-student-hub.git
+
 Live Demo: [data-science-student-hub-ui66.vercel.app](https://data-science-student-hub-ui66.vercel.app)
 
  Features
