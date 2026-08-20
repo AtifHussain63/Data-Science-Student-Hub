@@ -1,0 +1,6 @@
+{
+  "name": "DataScience Student Hub",
+  "description": "An educational platform for university Data Science students featuring interactive courses in Python, SQL, Statistics, and Machine Learning, quizzes, personal progress tracking, study notes, bookmarks, and a Gemini AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
